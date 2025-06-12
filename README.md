@@ -7,6 +7,8 @@ Latte & Light is a cozy and inviting cafe website designed with HTML and CSS, ai
 4.A Contact Us section
 5.A feedback section
 
+Project Link: https://latte-and-light.vercel.app/
+
 Technologies Used:
 1.HTML5
 2.CSS3
