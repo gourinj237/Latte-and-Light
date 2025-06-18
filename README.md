@@ -1,4 +1,4 @@
-# Latte-and-Light
+# Latte-and-Light: A Cafe Website
 
 Latte & Light is a cozy and inviting cafe website designed with HTML and CSS, aimed at delivering an aesthetic and user-friendly browsing experience. This project showcases the essential pages of a cafe including:
 - A warm Landing Page
